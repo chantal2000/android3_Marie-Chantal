@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() {
     fun login() {
         btnLogin.setOnClickListener {
             if (email.text.toString().isEmpty() ||
-                password.text.toString().isEmpty() ||
+                password.text.toString().isEmpty()
                     ) {
                 email.setError("email Can't be blank")
                 password.setError("password Can't be blank")
