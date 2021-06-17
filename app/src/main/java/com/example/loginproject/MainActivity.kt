@@ -44,8 +44,7 @@ class MainActivity : AppCompatActivity() {
                 email.setError("email Can't be blank")
                 password.setError("password Can't be blank")
             } else {
-
-                Toast.makeText(baseContext, "Welcome back ", Toast.LENGTH_SHORT).show()
+                Toast.makeText(baseContext, "Welcome back Dear Customer", Toast.LENGTH_LONG).show()
             }
 
 
