@@ -91,6 +91,7 @@
         android:layout_marginStart="136dp"
         android:layout_marginTop="8dp"
         android:text="Signup"
+        android:textSize="24sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvLog" />
 
