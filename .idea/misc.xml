@@ -5,6 +5,8 @@
       <map>
         <entry key="app/src/main/res/drawable/btn_bg_app.xml" value="0.209375" />
         <entry key="app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1015625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.1" />
       </map>
     </option>
   </component>
