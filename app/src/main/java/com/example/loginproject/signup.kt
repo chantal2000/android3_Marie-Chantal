@@ -24,8 +24,8 @@ class signup : AppCompatActivity() {
         back()
     }
     fun castView() {
-        name = findViewById(R.id.name1)
         email = findViewById(R.id.etEmail)
+        name = findViewById(R.id.name1)
         phone = findViewById(R.id.etPhone)
         password = findViewById(R.id.etPassword)
         signup = findViewById(R.id.btnBAck)
