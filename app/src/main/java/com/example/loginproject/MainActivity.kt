@@ -35,7 +35,6 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
     }
-
     fun login() {
         btnLogin.setOnClickListener {
             if (email.text.toString().isEmpty() ||
